@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Did you know that if you create a Github repo with the same name as your username, Github automatically creates a README for your profile?
+
 <!--
 **ryanshaut/ryanshaut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
