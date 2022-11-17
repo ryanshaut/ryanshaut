@@ -1,6 +1,9 @@
 ### Hi there 👋
 
-Did you know that if you create a Github repo with the same name as your username, Github automatically creates a README for your profile?
+Did you know that if you create a Github repo with the same name as your username and add a README.md file, Github automatically creates a README for your profile?
+Snce my username is ryanshaut, I created a repo called ryanshaut. The Github URL looks like https://github.com/ryanshaut/ryanshaut
+
+Bonus points, that repo also powers my website https://shaut.us
 
 <!--
 **ryanshaut/ryanshaut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
